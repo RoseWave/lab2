@@ -63,7 +63,7 @@ def proc4():
     else:
         print('Ошибка в выборе цвета')
 
-d
+
 
 
 proc4()
